@@ -1,0 +1,6 @@
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\bin\Debug\linearsearch Csharp.exe.config
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\bin\Debug\linearsearch Csharp.exe
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\bin\Debug\linearsearch Csharp.pdb
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\obj\Debug\linearsearch Csharp.csprojResolveAssemblyReference.cache
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\obj\Debug\linearsearch Csharp.exe
+c:\users\fazal\documents\visual studio 2015\Projects\linearsearch Csharp\linearsearch Csharp\obj\Debug\linearsearch Csharp.pdb
